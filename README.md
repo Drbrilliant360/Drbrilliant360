@@ -27,7 +27,10 @@ class Bryan:
 
 ## Metrics
 
-<img src="/github-metrics.svg" alt="GitHub metrics" width="100%" />
+<p align="center">
+  <img src="/metrics.base.svg" alt="GitHub profile metrics" width="49%" align="top" />
+  <img src="/metrics.calendar.svg" alt="Contribution calendars" width="49%" align="top" />
+</p>
 
 ## Tech stack
 
